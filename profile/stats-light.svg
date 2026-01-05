@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">hectorqin's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 11150, Total Commits  : 10666, Total PRs: 31, Total PRs Reviewed: 0, Total Issues: 57, Total Discussions Answered: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 11149, Total Commits  : 10666, Total PRs: 31, Total PRs Reviewed: 0, Total Issues: 57, Total Discussions Answered: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 67.64121714529206;
+        stroke-dashoffset: 67.64125054105288;
       }
     }
   
@@ -151,7 +151,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >11.2k</text>
+      >11.1k</text>
     </g>
   </g><g transform="translate(0, 28)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
